@@ -1,0 +1,125 @@
+body{
+  margin:0px;
+  font-family: trade-gothic-next, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 1rem;
+  line-height: 130%;
+  }
+
+  .menu {
+    height: 50px;
+    background-color: #ffcc00;
+    padding-top: 30px;
+    padding-bottom: 15px;
+    text-align: center;
+    position: sticky;
+    top: 0px;
+  }
+
+  .logo {
+    width: 150px;
+  }
+
+.blue {
+  padding-top: 30px;
+  text-align: center;
+  background-color: #1a2c3d;
+  height: 650px;
+  color: #f1dedb;
+}
+
+.intro {
+  width: 300px;
+  position: absolute;
+  left: 682.5px;
+  top: 200px;
+}
+
+h1 {
+  color: #f1dedb;
+}
+
+.title {
+  text-align: center;
+  color: #1a2c3d;
+  padding-bottom: 40px;
+}
+
+.letters {
+  width: 150px;
+  position: sticky;
+
+}
+
+.wave {
+  width: 1666px;
+  position: absolute;
+  top:  501.14px;
+  left: 0px;
+}
+
+.middle-container{
+  background-color: #f1dedb;
+  padding: 40px;
+  height: 700px;
+}
+
+.triangle {
+  height: 300px;
+  position: absolute;
+  top: 930px;
+  left: 200px;
+}
+
+.triangles {
+  width: 300px;
+  padding-top: 30px;
+  position: absolute;
+  top: 1260px;
+  left: 200px;
+  text-align: center;
+}
+
+.circle1 {
+  height: 300px;
+  position: absolute;
+  top: 930px;
+  left: 680px;
+}
+
+.circles {
+  width: 300px;
+  padding-top: 30px;
+  position: absolute;
+  top: 1260px;
+  left: 680px;
+  text-align: center;
+}
+
+.square {
+  height: 300px;
+  position: absolute;
+  top: 930px;
+  right: 200px;
+}
+
+.squares {
+  width: 300px;
+  padding-top: 30px;
+  position: absolute;
+  top: 1260px;
+  right: 200px;
+  text-align: center;
+}
+
+.bottom-container {
+  background-color: #b01265;
+  padding-top: 50px;
+  height: 100px;
+  text-align: center;
+}
+
+h3 {
+  margin: 0px;
+}
